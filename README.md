@@ -1,11 +1,11 @@
 # insurtech-source
 # Project Title: InsurTech Source
-![Insurtech Source Logo](InsurTech-source.png)
+![Insurtech Source Logo](assets/images/INSURTECH.png)
 ## Description
 This application will reach out to insurtechs globally to encourage data collection of their information.  This data will be stored and sorted and provided to large insurers.  Content will need to be updated frequently to be relevent and interesting to all parties.  Customized ads and sponsorships will allow the content to stay fresh.   
 
 **features**
- * Uses all functions presented in the bootcamp: HTML, CSS, JAVA...
+ * Uses all functions presented in the bootcamp: HTML, CSS, JAVA.
  * Featured InsurTech success stories
  * Collects key data from insurtechs to record and utilize later
  * Allows users to sort the content by preference of insurance type and function
@@ -28,6 +28,7 @@ Dawn LeBlanc 10-2021
 
 ## Version History
 1.0 Initialize Code
+1.1 Added Placeholder Landing Page and README.md
 
 
 
